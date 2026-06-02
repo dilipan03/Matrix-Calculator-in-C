@@ -16,3 +16,4 @@ A console-based matrix calculator that performs addition and multiplication oper
 | Menu System & Main Loop | [dilipan03] |
 | Run-Again / Repeat Calculation Feature | [dilipan03] |
 | Matrix Addition | [ananthakrishnan9373] |
+| Matrix Substraction| [ananthakrishnan9373] |
